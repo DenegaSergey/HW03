@@ -53,23 +53,13 @@
       "name": "Kenai",
       "type": "Grizzly"
     }
-<<<<<<< HEAD
  
-=======
-<<<<<<< HEAD
->>>>>>> aedbb14997b4c23f8d0e6ea5e30e4f0d64661b7a
 {
 "id": 11,
 "name":  "Toporik",
 "type": Black"
 }
-=======
-    {
-"id": 11,
-"name":  "Toporik",
-"type": "Black"
-    }
->>>>>>> b604b9fd7b5bb031ab8d053d0111668fa04963ca
+
 
     {
 "id": 11,
