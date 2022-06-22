@@ -53,11 +53,19 @@
       "name": "Kenai",
       "type": "Grizzly"
     }
+<<<<<<< HEAD
 {
 "id": 11,
 "name":  "Toporik",
 "type": Black"
 }
+=======
+    {
+"id": 11,
+"name":  "Toporik",
+"type": "Black"
+    }
+>>>>>>> b604b9fd7b5bb031ab8d053d0111668fa04963ca
 
   ]
 }
